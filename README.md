@@ -1,2 +1,2 @@
 # ICT-Semester-Project-
-1st file contains Proposal while 2nd file contains the figma design 
+all the phases/details of my ICT semester projects are in this resporatory
